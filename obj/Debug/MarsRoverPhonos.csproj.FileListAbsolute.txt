@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MarsRoverPhonos\bin\Debug\MarsRoverPhonos.exe.config
+C:\Users\User\source\repos\MarsRoverPhonos\bin\Debug\MarsRoverPhonos.exe
+C:\Users\User\source\repos\MarsRoverPhonos\bin\Debug\MarsRoverPhonos.pdb
+C:\Users\User\source\repos\MarsRoverPhonos\obj\Debug\MarsRoverPhonos.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MarsRoverPhonos\obj\Debug\MarsRoverPhonos.Properties.Resources.resources
+C:\Users\User\source\repos\MarsRoverPhonos\obj\Debug\MarsRoverPhonos.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MarsRoverPhonos\obj\Debug\MarsRoverPhonos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MarsRoverPhonos\obj\Debug\MarsRoverPhonos.exe
+C:\Users\User\source\repos\MarsRoverPhonos\obj\Debug\MarsRoverPhonos.pdb
+C:\Users\User\source\repos\MarsRoverPhonos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\MarsRoverPhonos\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\MarsRoverPhonos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\MarsRoverPhonos\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\MarsRoverPhonos\obj\Debug\MarsRoverPhonos.csproj.CopyComplete
+C:\Users\User\source\repos\MarsRoverPhonos\obj\Debug\MarsRoverPhonos.Camera.resources
